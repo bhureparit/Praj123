@@ -17,12 +17,12 @@
       <![CDATA[Hello Shraddha]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-12-28T12:41:04 IST" name="Suite" finished-at="2022-12-28T12:41:04 IST" duration-ms="54">
+  <suite started-at="2022-12-31T16:22:32 IST" name="Suite" finished-at="2022-12-31T16:22:32 IST" duration-ms="55">
     <groups>
     </groups>
-    <test started-at="2022-12-28T12:41:04 IST" name="Test" finished-at="2022-12-28T12:41:04 IST" duration-ms="54">
+    <test started-at="2022-12-31T16:22:32 IST" name="Test" finished-at="2022-12-31T16:22:32 IST" duration-ms="55">
       <class name="scripts.Tc3">
-        <test-method signature="demo()[pri:0, instance:scripts.Tc3@6d3a388c]" started-at="2022-12-28T12:41:04 IST" name="demo" finished-at="2022-12-28T12:41:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc3@6d3a388c]" started-at="2022-12-31T16:22:32 IST" name="demo" finished-at="2022-12-31T16:22:32 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello Paritosh]]>
@@ -31,7 +31,7 @@
         </test-method> <!-- demo -->
       </class> <!-- scripts.Tc3 -->
       <class name="scripts.Tc4">
-        <test-method signature="demo()[pri:0, instance:scripts.Tc4@193f604a]" started-at="2022-12-28T12:41:04 IST" name="demo" finished-at="2022-12-28T12:41:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc4@193f604a]" started-at="2022-12-31T16:22:32 IST" name="demo" finished-at="2022-12-31T16:22:32 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello Automation]]>
@@ -40,7 +40,7 @@
         </test-method> <!-- demo -->
       </class> <!-- scripts.Tc4 -->
       <class name="scripts.Tc1">
-        <test-method signature="demo()[pri:0, instance:scripts.Tc1@41fecb8b]" started-at="2022-12-28T12:41:04 IST" name="demo" finished-at="2022-12-28T12:41:04 IST" duration-ms="7" status="PASS">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc1@41fecb8b]" started-at="2022-12-31T16:22:32 IST" name="demo" finished-at="2022-12-31T16:22:32 IST" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hellojava]]>
@@ -49,7 +49,7 @@
         </test-method> <!-- demo -->
       </class> <!-- scripts.Tc1 -->
       <class name="scripts.Tc2">
-        <test-method signature="demo()[pri:0, instance:scripts.Tc2@223aa2f7]" started-at="2022-12-28T12:41:04 IST" name="demo" finished-at="2022-12-28T12:41:04 IST" duration-ms="0" status="PASS">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc2@223aa2f7]" started-at="2022-12-31T16:22:32 IST" name="demo" finished-at="2022-12-31T16:22:32 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello selenium]]>
@@ -58,7 +58,7 @@
         </test-method> <!-- demo -->
       </class> <!-- scripts.Tc2 -->
       <class name="scripts.Tc5">
-        <test-method signature="demo()[pri:0, instance:scripts.Tc5@20f5239f]" started-at="2022-12-28T12:41:04 IST" name="demo" finished-at="2022-12-28T12:41:04 IST" duration-ms="1" status="PASS">
+        <test-method signature="demo()[pri:0, instance:scripts.Tc5@20f5239f]" started-at="2022-12-31T16:22:32 IST" name="demo" finished-at="2022-12-31T16:22:32 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hello Shraddha]]>
